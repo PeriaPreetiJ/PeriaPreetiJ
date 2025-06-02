@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PeriaPreetiJ
-- 👀 I’m interested in Data sience 
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking forward for a job.
+- 👀 I’m interested in Data Sience/ Data Analyst
+- 🌱 I have completed Master Data Science in GUVI.
+- 💞️ I’m looking forward for an internship/job.
 
 
 <!---
